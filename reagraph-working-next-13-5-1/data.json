@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Rasperdun",
+      "label": "Rasperdun"
+    },
+    {
+      "id": "NaKoR",
+      "label": "NaKoR"
+    },
+    {
+      "id": "Waidelos",
+      "label": "Waidelos"
+    }
+  ],
+  "edges": [
+    {
+      "id": "Rasperdun-NaKoR",
+      "source": "Rasperdun",
+      "target": "NaKoR"
+    },
+    {
+      "id": "Rasperdun-Waidelos",
+      "source": "Rasperdun",
+      "target": "Waidelos"
+    },
+    {
+      "id": "Rasperdun-Evoker_",
+      "source": "Rasperdun",
+      "target": "Evoker_"
+    }
+  ]
+}
